@@ -1,0 +1,15 @@
+fernando/controle/UsuarioControle.class
+fernando/repositorio/UsuarioRepositorio.class
+fernando/modelo/Partida$PartidaBuilder.class
+fernando/controle/ParticipacaoControle.class
+fernando/excecao/GlobalExceptionHandler.class
+fernando/excecao/EntidadeNaoEncontradaException.class
+fernando/modelo/Participacao.class
+fernando/RESTfulAPI.class
+fernando/servico/UsuarioServico.class
+fernando/repositorio/PartidaRepositorio.class
+fernando/repositorio/ParticipacaoRepositorio.class
+fernando/excecao/RespostaErro.class
+fernando/modelo/Partida.class
+fernando/servico/ParticipacaoServico.class
+fernando/modelo/Usuario.class

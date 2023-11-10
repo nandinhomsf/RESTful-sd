@@ -1,0 +1,14 @@
+/home/nandinhomsf/IdeaProjects/trabalho6/trabalho6-api/src/main/java/fernando/controle/UsuarioControle.java
+/home/nandinhomsf/IdeaProjects/trabalho6/trabalho6-api/src/main/java/fernando/repositorio/ParticipacaoRepositorio.java
+/home/nandinhomsf/IdeaProjects/trabalho6/trabalho6-api/src/main/java/fernando/RESTfulAPI.java
+/home/nandinhomsf/IdeaProjects/trabalho6/trabalho6-api/src/main/java/fernando/modelo/Partida.java
+/home/nandinhomsf/IdeaProjects/trabalho6/trabalho6-api/src/main/java/fernando/modelo/Participacao.java
+/home/nandinhomsf/IdeaProjects/trabalho6/trabalho6-api/src/main/java/fernando/servico/ParticipacaoServico.java
+/home/nandinhomsf/IdeaProjects/trabalho6/trabalho6-api/src/main/java/fernando/servico/UsuarioServico.java
+/home/nandinhomsf/IdeaProjects/trabalho6/trabalho6-api/src/main/java/fernando/excecao/RespostaErro.java
+/home/nandinhomsf/IdeaProjects/trabalho6/trabalho6-api/src/main/java/fernando/excecao/EntidadeNaoEncontradaException.java
+/home/nandinhomsf/IdeaProjects/trabalho6/trabalho6-api/src/main/java/fernando/repositorio/PartidaRepositorio.java
+/home/nandinhomsf/IdeaProjects/trabalho6/trabalho6-api/src/main/java/fernando/repositorio/UsuarioRepositorio.java
+/home/nandinhomsf/IdeaProjects/trabalho6/trabalho6-api/src/main/java/fernando/excecao/GlobalExceptionHandler.java
+/home/nandinhomsf/IdeaProjects/trabalho6/trabalho6-api/src/main/java/fernando/controle/ParticipacaoControle.java
+/home/nandinhomsf/IdeaProjects/trabalho6/trabalho6-api/src/main/java/fernando/modelo/Usuario.java
