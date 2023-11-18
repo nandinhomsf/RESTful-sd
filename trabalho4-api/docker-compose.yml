@@ -1,0 +1,18 @@
+version: "3.8"
+
+services:
+  mysql:
+    image: mysql:8.0.33
+    container_name: banco
+    network_mode: "host"
+    restart: always
+    volumes:
+      - banco:/var/lib/mysql
+    environment:
+      - MYSQL_DATABASE=banco
+      - MYSQL_USER=nandinho
+      - MYSQL_PASSWORD=coxinha123
+      - MYSQL_ROOT_PASSWORD=coxinha123
+
+volumes:
+  banco:
